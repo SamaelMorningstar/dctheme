@@ -1,7 +1,7 @@
-@import url(https://vsthemes.org/uploads/generator/client/ThemeDevBadge.css);
-@import url(https://vsthemes.org/uploads/generator/client/SettingsIcons.css);
-@import url(https://vsthemes.org/uploads/generator/client/BlurpleRecolor.css);
-@import url(https://vsthemes.org/uploads/generator/client/usrbg.css);
+@import url(https://github.com/SamaelMorningstar/dctheme/blob/main/ThemeDevBadge.css);
+@import url(https://github.com/SamaelMorningstar/dctheme/blob/main/SettingsIcons.css);
+@import url(https://github.com/SamaelMorningstar/dctheme/blob/main/BlurpleRecolor.css);
+@import url(https://github.com/SamaelMorningstar/dctheme/blob/main/usrbg.css);
 
 :root {
 	--dtransparencycolor:			0,0,0;
